@@ -2,7 +2,7 @@
 ### A telegram bot to shorten long links with PTUTM Domain
 ## Dependencies
 - python telegram wrapper\
-  ```pip3 install python-telegram-bot```
+  ```pip3 install requirements.txt```
 
 ## Available commands
 - ```/start``` - Starts the bot.
