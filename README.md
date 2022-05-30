@@ -10,4 +10,4 @@
 - ```/help``` - For help message.
 
 
-## Any problems, contact [@raymond9266](https://t.me/raymond9266)
+## Any problems, email [DMT-PTUTM](ptutm.dmt@gmail.com)
