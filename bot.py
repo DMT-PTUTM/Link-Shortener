@@ -7,8 +7,8 @@ from pyqrcode import QRCode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from telegram import Update
 
-TOKEN = "5348460983:AAGdpwSEinQkWGF6K_UJH8DfSACZcHY1ASk"
-KEY = "sk_lCHibSOLAdIqyJUZ"
+TOKEN = "INSERT_TOKEN"
+KEY = "INSERT_SHORT.IO_API_KEY"
 admins = [839574311]   
 
 logging.basicConfig(
