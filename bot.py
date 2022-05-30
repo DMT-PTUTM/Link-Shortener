@@ -9,7 +9,7 @@ from telegram import Update
 
 TOKEN = "INSERT_TOKEN"
 KEY = "INSERT_SHORT.IO_API_KEY"
-admins = [839574311]   
+admins = [INSERT_USER_ID]   
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
